@@ -1,0 +1,10 @@
+# Streamlit secrets (contains API keys)
+.streamlit/secrets.toml
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/

@@ -1,0 +1,2 @@
+# help() example
+help(len)
